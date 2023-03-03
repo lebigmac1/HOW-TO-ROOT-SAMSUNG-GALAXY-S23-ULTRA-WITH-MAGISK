@@ -35,13 +35,11 @@ I have attached my original S23 Ultra files for your convenience ;)
 
 10) Enjoy your rooted device :D
 
-If you like my hard work please consider donating at
-http://www.systemrw.com
-
+If you like my hard work please consider donating at the link below.
 Thank you very much for your support!
 
 Forever yours,
 lebigmac
 
 DOWNLOAD ATTACHMENT AT
-http://www.systemrw.com/download.php
+http://www.systemrw.com
