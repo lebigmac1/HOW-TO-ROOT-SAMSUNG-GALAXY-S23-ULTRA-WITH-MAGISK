@@ -10,7 +10,7 @@ NOTE: For Android 13. Your bootloader needs to be unlocked for this procedure to
 
 Extract and unlz4 both boot.img and init_boot.img files from your firmware
 
-  unlz4 boot.img.lz4 boot.img
+<code>unlz4 boot.img.lz4 boot.img</code>
 
 Repeat this step for the other file as well. I have attached my original S23 Ultra files for your convenience ;)
 
