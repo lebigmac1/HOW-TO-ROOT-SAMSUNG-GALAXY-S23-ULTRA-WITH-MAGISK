@@ -22,19 +22,24 @@ Repeat this step for the other file as well. I have attached my original S23 Ult
 
 
 4) Rename both files to boot.img and init_boot.img respectively (the larger file should be your boot.img)
+
 <code>adb shell "cd /sdcard/Download/; mv magisk_patched_*.img boot.img"</code>
+
 <code>adb shell "cd /sdcard/Download/; mv magisk_patched_*.img init_boot.img"</code>
 
 
 5) Tar both files with this command:
+
 <code>adb shell "cd /sdcard/Download/; tar cvf boot_patched.tar boot.img init_boot.img"</code>
 
 
 6) Pull the patched tar file from your device to your computer
+
 <code>adb pull /sdcard/Download/boot_patched.tar</code>
 
 
 7) Reboot phone into Download mode:
+
 <code>adb reboot download</code>
 
 
