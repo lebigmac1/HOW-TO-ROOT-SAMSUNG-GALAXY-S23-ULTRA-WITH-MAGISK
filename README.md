@@ -1,5 +1,5 @@
 
-<b>BRAND NEW DIY TUTORIAL BY LEBIGMAC !<br>How to ROOT your boot.img with Magisk (for Samsung Galaxy S23 Ultra & more)</b>
+<h1>BRAND NEW DIY TUTORIAL BY LEBIGMAC !<br>How to ROOT your boot.img with Magisk (for Samsung Galaxy S23 Ultra & more)</h1>
 
 NOTE: For Android 13. Your bootloader needs to be unlocked for this procedure to work!
 
@@ -22,7 +22,8 @@ Repeat this step for the other file as well. I have attached my original S23 Ult
 
 
 4) Rename both files to boot.img and init_boot.img respectively (the larger file should be your boot.img)
-<code>adb shell "cd /sdcard/Download/; mv magisk_patched_*.img boot.img"<br>adb shell "cd /sdcard/Download/; mv magisk_patched_*.img init_boot.img"</code>
+<code>adb shell "cd /sdcard/Download/; mv magisk_patched_*.img boot.img"</code>
+<code>adb shell "cd /sdcard/Download/; mv magisk_patched_*.img init_boot.img"</code>
 
 
 5) Tar both files with this command:
