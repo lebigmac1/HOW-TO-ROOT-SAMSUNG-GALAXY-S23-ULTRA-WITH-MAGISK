@@ -4,7 +4,7 @@
 NOTE: For Android 13. Your bootloader needs to be unlocked for this procedure to work!
 
 
-1) Download your device's firmware from a trustworthy source on the internet (to find out your firmware version, click 'About phone' > 'Software version')
+1) Download your device's firmware from a trustworthy source on the internet (to find out your firmware version, click Settings > 'About phone' > 'Software version')
 
 Extract and unlz4 both boot.img and init_boot.img files from your firmware
 
